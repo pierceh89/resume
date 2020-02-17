@@ -1,0 +1,19 @@
+.solar-emphasized {
+    color: #93a1a1; /* base1 */
+}
+
+.solar-secondary {
+    color: #586e75; /* base01 */
+}
+
+.solar-primary {
+    color: #657b83; /* base00 */
+}
+
+.solar-bg {
+    background-color: #002b36; /* base03 */
+}
+
+.solar-bg-hl {
+    background-color: #073642; /* base02 */
+}
